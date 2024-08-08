@@ -1,3 +1,8 @@
+## VMware Workspace ONE SDK 24.06.1 for Android
+
+# What's new
+* Migrated play core library to target Android API 34
+
 ## VMware Workspace ONE SDK 24.06 for Android
 
 # What’s new
