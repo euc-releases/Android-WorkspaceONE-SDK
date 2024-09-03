@@ -1,20 +1,16 @@
-## VMware Workspace ONE SDK 24.06.1 for Android
-
-# What's new
-* Migrated play core library to target Android API 34
-
-## VMware Workspace ONE SDK 24.06 for Android
+## VMware Workspace ONE SDK 24.07 for Android
 
 # What’s new
+* Migrated play core library to target Android API 34
 * Stability improvements and Bug fixes.
 * Third party library updates.
 
 # Compatibility
 * Android 7.0 + (i.e., API 24)
-* Workspace ONE UEM Console 2212+
+* Workspace ONE UEM Console 2302+
 * Android Studio with the Gradle Android Build System (Gradle) 7.4 +
 * JDK version 17
-* Workspace ONE Intelligent Hub for Android version 24.04
+* Workspace ONE Intelligent Hub for Android version 24.07
 
 # Integration
 The SDK is accessible from a Maven repository. For integration documentation, refer to the VMware developer website: [VMware Developer Documentation](https://developer.omnissa.com/ws1-sdk-uem-android/)
