@@ -4,7 +4,20 @@ This repository contains the Workspace ONE SDK for Android.
 
 For detailed information about the Workspace ONE SDK and managing internal apps, see the [Omnissa Developer Portal SDKs](https://developer.omnissa.com/sdks/) page and navigate to the appropriate area.
 
-For integration documentation, refer to the [Omnissa Developer Portal](https://developer.omnissa.com/ws1-uem-sdk-for-android/) and KB article: [https://kb.omnissa.com/s/article/6000158](https://kb.omnissa.com/s/article/6000158)
+## Release Notes
+
+Up to date release notes can be found in the [Omnissa Developer Portal](https://developer.omnissa.com/ws1-uem-sdk-for-android/release-notes/).
+
+## Integration
+
+The SDK is accessible from a Maven repository. For integration documentation, refer to [Workspace ONE SDK for Android](https://developer.omnissa.com/ws1-uem-sdk-for-android/) page in the Omnissa Developer Portal and KB article [General Availability of Workspace ONE SDK Android (6000158)](https://kb.omnissa.com/s/article/6000158).
+
+Developers must follow the instructions in the [Public Maven Repository Integration Note](https://github.com/euc-releases/workspace-ONE-SDK-integration-samples/blob/main/IntegrationGuideForAndroid/Guides/PublicMaven/WorkspaceONE_Android_PublicMavenNote.md) to integrate the Workspace ONE SDK Android package into their applications.
+
+Also when adding module dependencies, ensure the group and module names are in lowercase. Example: 
+```c
+dependencies { implementation ("com.airwatch.android:airwatchsdk:${airwatchVersion}") implementation ("com.airwatch.android:awframework:${airwatchVersion}") implementation ("com.airwatch.android:awnetworklibrary:${airwatchVersion}") }
+```
 
 This SDK is free and public. To obtain technical support for the use of the SDK, please submit a Support Request (SR) via [Omnissa Customer Connect](https://customerconnect.omnissa.com/home) to get help from the Omnissa Global Customer Services (GCS).
 
