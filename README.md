@@ -6,11 +6,11 @@ For detailed information about the Workspace ONE SDK and managing internal apps,
 
 ## Release Notes
 
-Up to date release notes can be found in the [Omnissa Developer Portal](https://developer.omnissa.com/ws1-uem-sdk-for-android/release-notes/).
+Up to date release notes can be found in the [Omnissa Developer Portal](https://developer.omnissa.com/ws1-sdk-for-android/release-notes/).
 
 ## Integration
 
-The SDK is accessible from a Maven repository. For integration documentation, refer to [Workspace ONE SDK for Android](https://developer.omnissa.com/ws1-uem-sdk-for-android/) page in the Omnissa Developer Portal and KB article [General Availability of Workspace ONE SDK Android (6000158)](https://kb.omnissa.com/s/article/6000158).
+The SDK is accessible from a Maven repository. For integration documentation, refer to [Workspace ONE SDK for Android](https://developer.omnissa.com/ws1-sdk-for-android/) page in the Omnissa Developer Portal and KB article [General Availability of Workspace ONE SDK Android (6000158)](https://kb.omnissa.com/s/article/6000158).
 
 Developers must follow the instructions in the [Public Maven Repository Integration Note](https://github.com/euc-releases/workspace-ONE-SDK-integration-samples/blob/main/IntegrationGuideForAndroid/Guides/PublicMaven/WorkspaceONE_Android_PublicMavenNote.md) to integrate the Workspace ONE SDK Android package into their applications.
 
@@ -27,7 +27,7 @@ Omnissa provides this Software Development Kit (the “Software”) to you subje
 
 For additional information, please visit the [Omnissa Legal Center](https://www.omnissa.com/legal-center/).
 
-The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=Android-WorkspaceONE-SDK) or [Release](https://github.com/euc-releases/Android-WorkspaceONE-SDK/releases). Primarily, the SDK is accessible as a Maven package.
+The SDK is provided as a [Release](https://github.com/orgs/euc-releases/packages?repo_name=Android-WorkspaceONE-SDK). Primarily, the SDK is accessible as a Maven package.
 
 ## License
 
